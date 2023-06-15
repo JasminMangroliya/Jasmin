@@ -23,6 +23,6 @@
   "showAd":true,
   "toBeClicked":1,
   "totalIntro":7,
-  "updateUrl":"https://www.google.com/"
-  "rateUrl":"https://www.youtube.com/"
+  "updateUrl":"https://www.google.com/",
+  "rateUrl":"https://www.youtube.com/",
 }

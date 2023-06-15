@@ -24,4 +24,5 @@
   "toBeClicked":1,
   "totalIntro":4,
   "updateUrl":"https://www.google.com/"
+  "rateUrl":"https://play.google.com/store/apps?hl=en-IN"
 }

@@ -22,7 +22,7 @@
   "priority":"facebook",
   "showAd":true,
   "toBeClicked":1,
-  "totalIntro":2,
+  "totalIntro":6,
   "updateUrl":"https://www.google.com/",
   "rateUrl":"https://www.youtube.com/"
 }

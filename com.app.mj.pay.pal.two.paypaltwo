@@ -42,7 +42,7 @@
   "isFacebookGoogleBoth":true,
   "isGoogleFailShowFacebook":true,
   "isNativeFacebookGoogleBoth":true,
-  "isUpdateApp":false,
+  "isUpdateApp":true,
   "priority":"facebook",
   "showAd":true,
   "toBeClicked":10000,

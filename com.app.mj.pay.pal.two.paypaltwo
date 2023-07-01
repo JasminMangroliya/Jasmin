@@ -1,5 +1,5 @@
 {
-  "appOpenVisible": true,
+  "appOpenVisible": false,
   "backPriority":"facebook",
   "facebookBannerId1":"1209359296416914_1209361983083312",
   "facebookBannerId2":"1209359296416914_1209362029749974",
@@ -38,7 +38,7 @@
   "isBackFacebookGoogleBoth":false,
   "isBannerGoogleFacebookBoth":false,
   "isComingSoon":false,
-  "isFacebookFailShowGoogle":true,
+  "isFacebookFailShowGoogle":false,
   "isFacebookGoogleBoth":false,
   "isGoogleFailShowFacebook":true,
   "isNativeFacebookGoogleBoth":false,
@@ -46,6 +46,6 @@
   "priority":"facebook",
   "showAd":true,
   "toBeClicked":1,
-  "totalIntro":5,
+  "totalIntro":6,
   "updateUrl":"https://www.google.com/"
 }
